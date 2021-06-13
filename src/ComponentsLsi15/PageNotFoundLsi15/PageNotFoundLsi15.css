@@ -1,0 +1,22 @@
+
+
+.page_404{ padding:40px 0; margin-top:4%; margin-left: 18%; background:#fff; font-family: 'Arvo', serif;
+}
+
+
+ 
+ h1{
+ font-size:180px;
+ }
+ 
+ h3{
+	 font-size:80px;
+			 }
+			 
+ .link_404{			 
+	color: #fff!important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;}
+	.contant_box_404{ margin-top:-50px;}
